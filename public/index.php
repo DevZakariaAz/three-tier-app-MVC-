@@ -1,5 +1,3 @@
 <?php
-// Redirect to the view
-header('Location: ../view/index.php');
-exit();
+require_once '../view/index.php';
 ?>
